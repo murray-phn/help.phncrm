@@ -1,9 +1,12 @@
 site_name: PHN CRM Help Centre
+site_description: PHN CRM Help Centre
 
-theme: readthedocs
-extra_css: 
-    - ../css/extra.css
-    - css/extra.css
+theme:
+    name: "material"
+    logo: "images/icon.png"
+
+site_dir: docs/
+docs_dir: src/
 
 nav:
 - Home: 'index.md'
@@ -49,4 +52,4 @@ nav:
 
 markdown_extensions:
     - toc:
-        permalink: "#"
+        permalink: true
