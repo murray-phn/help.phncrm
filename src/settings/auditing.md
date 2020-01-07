@@ -14,4 +14,4 @@ You can filter the audit log to display changes to a single field, rather than a
 
 To enable or disable auditing on an entity, contact your PHN Exchange coordinator.
 
-[Read More](https://crmbook.powerobjects.com/basics/data-management-in-microsoft-dynamics-crm/auditing-in-microsoft-dynamics-crm/)
+[Learn More](https://crmbook.powerobjects.com/basics/data-management-in-microsoft-dynamics-crm/auditing-in-microsoft-dynamics-crm/)

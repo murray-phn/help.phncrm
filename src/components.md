@@ -1,5 +1,7 @@
 # Components
 
+## Overview
+
 The 'PHN in a Box' is comprised of these core components:
 
 - GP Profile
@@ -14,7 +16,9 @@ The 'PHN in a Box' is comprised of these core components:
 
 The GP profile is a minimum dataset detailing each of the practices your PHN manages. Whilst it is not possible (or smart!) to gather all of the information required, the fields that the profile comprises of were developed in a joint effort between our practice coordinators and our executive the profile is intended to be updated regularly over time. If you believe additional fields are required, please talk with your manager who can inform the development team.
 
-[Video Preview](https://youtu.be/P8YCFshdRaY) (2 minutes)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe src="https://www.youtube.com/embed/P8YCFshdRaY" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## Enterprise-wide Risk Framework (EwR)
 
@@ -29,6 +33,24 @@ The GP profile is a minimum dataset detailing each of the practices your PHN man
 Devices and Software, including allocations and licenses.
 
 ## Controlled Document Register
+
+Found in the _Business_ Area.
+
+The Controlled Document Register (CDR) allows your PHN to manage metadata for documents stored anywhere.
+
+<span style="text-align: left;">
+
+| Field          | Description                                                |
+| -------------- | ---------------------------------------------------------- |
+| Lead Author    | The staff member who is the lead author of the document    |
+| Classification | Defines the type of the document                           |
+| Status         | Status of the document (progress)                          |
+| Link           | Link to the published (read-only) document                 |
+| Working File   | Link to the working file. This can be to anywhere          |
+| Approval Body  | The body responsible for approving changes to the document |
+| Review Cycle   | The frequency that the document should be reviewed         |
+
+</span>
 
 ## Data Dictionary
 
@@ -64,7 +86,7 @@ The physical boundaries of each area of each type are visible in CRM on an inter
 
 Each area also has a direct link to the 'ABS Quick Stats' page for that area, which provides additional detailed demographics.
 
-### Auto-Fill Address
+## Address Auto-fill
 
 With a click of a button, the system can locate the address of an Account and automatically fill in which SSC, POA, LGA, SA1-4 that Account resides within.
 
@@ -76,15 +98,22 @@ This provides several significant benefits:
 
 - See total number of Accounts within an area.
 
+## Additional Features
 
-# Additional Features
-
-Instant Search: 
+### Instant Search
 
 - Search for records in CRM.
 - Shows results as you type.
 - Includes entities such as Accounts, Contacts, Users, Risks, Controlled Documents, Legislation, Software, Devices, etc.
 
-EULAs and Agreements:
+You can get to Instant Search here, or from anywhere you can click the CRM logo (top-left):
+
+<img src="../images/instant_search_location.png" style="box-shadow: 0 0 10px black;" />
+
+Example of a search:
+
+<img src="../images/instant_search_example.png" style="box-shadow: 0 0 10px black;" />
+
+### EULAs and Agreements:
 
 - Create EULAs and keep track of which Accounts signed these EULAs and when they expire.

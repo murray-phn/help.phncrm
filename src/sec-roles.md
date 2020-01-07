@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 Security Roles (Permissions) allow administrators to choose which staff members can read, create, update or delete records of different entities.
 
@@ -13,11 +13,11 @@ Assign = Can make another User the Owner of a record
 The example below shows the 'Team Member' security role. This means that any User given the 'Team Member' role can do anything to Account records except delete them permanently (they can still deactivate them). 
 <img src="../img/sec-roles-example.png" />
 
-# Assigning a Security Role
+## Assigning Security Roles
 
 [ SECTION INCOMPLETE ] 
 
-# Security Roles
+## List of Security Roles
 
 See below the list of Security Roles.
 

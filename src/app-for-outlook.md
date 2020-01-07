@@ -1,10 +1,22 @@
 # Dynamics 365 App for Outlook
 
-## Activity Tracking in Outlook
+## Overview
+
+People can use Dynamics 365 App for Outlook to tap the power of CRM while using Outlook on the desktop, web, or tablet. For example, view information about email or appointment recipients, or link an Outlook email or appointment to a CRM record such as an account or contact. 
+
+- Track your emails and appointments in Outlook and associate them to the right records.
+
+- Quickly create new contacts and records
+
+- Take Microsoft Dynamics 365 App for Outlook with you to any device you are on, including Outlook Desktop, Outlook Web Access and Outlook Mobile
+
+## Regarding / Reporting
 
 Emails, Appointments and Calls have a default field called ‘regarding’. This allows staff to select a record in CRM that the activity relates to. Reporting of activity based on topic can then be generated, and activities will also appear on those records if they are ‘regarding’ it.
 
-How your PHN wishes to track activities is up to you – it is relatively easy to configure which entities can be used in the ‘regarding’ field. 
+[Learn more about Activity Categories](/entities/activity-category)
+
+## Training
 
 There is a medium level of staff training that will be required, as well as strategies to ensure staff are actively tracking activities. Tracking activities using the addin is very easy but staff have to understand the importance/need of this. The Department of Health may require interaction summaries between your PHN and your practices. If this is the case for your PHN, staff should be made aware that tracking is a requirement.
 
@@ -17,6 +29,7 @@ Desktop
 
 Browser
 
+[Learn more about Emails](/entities/email)
 
 ## Tracking Appointments
 
@@ -24,11 +37,15 @@ Desktop
 
 Browser
 
+[Learn more about Apointments](/entities/appointment)
+
 ## Tracking Phone Calls
 
 Desktop
 
 Browser
+
+[Learn more about Phone Calls](/entities/call)
 
 ## Tracking Tasks
 
@@ -36,7 +53,14 @@ Desktop
 
 Browser
 
+[Learn more about Tasks](/entities/task)
 
 ## Troubleshooting
 
 
+
+## More
+
+[FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3HdVU)
+
+[Learn More](https://docs.microsoft.com/en-us/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)

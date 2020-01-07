@@ -10,7 +10,6 @@ docs_dir: src/
 
 nav:
     - Home: 'index.md'
-    - Overview: 'overview.md'
     - FAQ: 'faq.md'
     - Training: 'training.md'
     - Dynamics 365 App for Outlook: 'app-for-outlook.md'
