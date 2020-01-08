@@ -1,16 +1,4 @@
-# Components
 
-## Overview
-
-The 'PHN in a Box' is comprised of these core components:
-
-- GP Profile
-- Enterprise-wide Risk Framework (EwR)
-- Asset Register
-- Controlled Documents
-- Legislation
-- Data Dictionary
-- Geography
 
 ## GP Profile
 
@@ -94,11 +82,11 @@ This provides several significant benefits:
 
 You can get to Instant Search here, or from anywhere you can click the CRM logo (top-left):
 
-<img src="../images/instant_search_location.png" style="box-shadow: 0 0 10px black;" />
+<img src="../images/instant_search_location.png" />
 
 Example of a search:
 
-<img src="../images/instant_search_example.png" style="box-shadow: 0 0 10px black;" />
+<img src="../images/instant_search_example.png" />
 
 ### EULAs and Agreements:
 

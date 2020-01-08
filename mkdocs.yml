@@ -8,12 +8,22 @@ theme:
 site_dir: docs/
 docs_dir: src/
 
+extra_css: [extra.css]
+
 nav:
     - Home: 'index.md'
     - FAQ: 'faq.md'
     - Training: 'training.md'
     - Dynamics 365 App for Outlook: 'app-for-outlook.md'
-    - Components: 'components.md'
+    - Components:
+        - Overview: 'components/overview.md'
+        - GP Profile: 'components/gp-profile.md'
+        - EwR (Risk) Framework: 'components/ewr.md'
+        - Asset Register: 'components/asset-register.md'
+        - Controlled Documents Register: 'components/controlled-docs.md'
+        - Legislation: 'components/legislation.md'
+        - Data Dictionary: 'components/data-dictionary.md'
+        - Geography: 'components/geography.md'
     - Entities:
         - Account: 'entities/account.md'
         - Activity Category: 'entities/activity-category.md'
