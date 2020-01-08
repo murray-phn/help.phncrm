@@ -1,6 +1,6 @@
 # Controlled Document <img src="/images/entity_icons/document.png" />
 
-Found in the _Business_ Area.
+<img src="/gifs/controlled_docs_location.gif" />
 
 ## Overview
 
