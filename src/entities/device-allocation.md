@@ -1,3 +1,3 @@
-# Device Allocation <img src="../img/device-allocation.png" />
+# Device Allocation <img src="../images/device-allocation.png" />
 
 This section has not been completed.

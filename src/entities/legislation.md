@@ -1,3 +1,3 @@
-# Legislation <img src="../img/legislation.png" />
+# Legislation <img src="../images/legislation.png" />
 
 This section has not been completed.

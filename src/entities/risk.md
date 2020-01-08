@@ -1,3 +1,3 @@
-# Risk <img src="../img/risk.png" />
+# Risk <img src="../images/risk.png" />
 
 This section has not been completed.

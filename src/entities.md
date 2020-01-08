@@ -15,7 +15,7 @@ An organisation (account) has a field called 'Account Types', which contains val
 
 ___
 
-## Activity Category <img src="../img/activity_category.png" />
+## Activity Category <img src="../images/activity_category.png" />
 
 Activity Categories allow PHN staff to extract/report activity summaries based on 'topics'. 
 

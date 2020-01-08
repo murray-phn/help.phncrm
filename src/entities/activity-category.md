@@ -1,5 +1,5 @@
 
- # Activity Category <img src="../img/activity_category.png" />
+ # Activity Category <img src="../images/activity_category.png" />
 
 Activity Categories allow PHN staff to extract/report activity summaries based on 'topics'. 
 

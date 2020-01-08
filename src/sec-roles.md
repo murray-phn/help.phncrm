@@ -11,7 +11,7 @@ Append To =
 Assign = Can make another User the Owner of a record
 
 The example below shows the 'Team Member' security role. This means that any User given the 'Team Member' role can do anything to Account records except delete them permanently (they can still deactivate them). 
-<img src="../img/sec-roles-example.png" />
+<img src="../images/sec-roles-example.png" />
 
 ## Assigning Security Roles
 

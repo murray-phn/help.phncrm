@@ -1,3 +1,3 @@
-# Device <img src="../img/device.png" />
+# Device <img src="../images/device.png" />
 
 This section has not been completed.
