@@ -45,6 +45,12 @@ The tool focuses on the five (5) key identified risk themes:
 
 The Counterparty Risk Assessment Tool has a notes and attachment section in the file for each account that should be used to keep a copy of any documentation applicable to all assessments.
 
+The resulting risk score will determine specific actions that are required, refer to table below:
+
+<img src="/images/cpra_score_classification.png" />
+
+_Please note: Refer to the Counterparty Risk Assessment Policy for examples of risk mitigation strategies that can be put in place._
+
 ### Regular reviews
 
 The Counterparty Risk Assessment procedure is a cyclical process that requires constant evaluation
