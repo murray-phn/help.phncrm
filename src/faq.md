@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-**Is a Microsoft Active Directory required to implement PHN CRM?**
+**Is a Microsoft Active Directory required to implement the PHN CRM?**
 
 > Yes.
 
@@ -10,4 +10,4 @@
 
 **Are mobile apps available?**
 
-> Yes, but may need configuring before use.
+> Yes, but it will need to be configured before rolling out to your staff.

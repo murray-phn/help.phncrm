@@ -90,7 +90,7 @@
       <div class="md-flex__cell md-flex__cell--shrink">
         <a href="../.." title="PHN CRM Help Centre" class="md-header-nav__button md-logo">
           
-            <img src="../../images/icon.png" width="24" height="24">
+            <img src="/images/logo.png" width="24" height="24">
           
         </a>
       </div>
@@ -160,7 +160,7 @@
   <label class="md-nav__title md-nav__title--site" for="__drawer">
     <a href="../.." title="PHN CRM Help Centre" class="md-nav__button md-logo">
       
-        <img src="../../images/icon.png" width="48" height="48">
+        <img src="/images/logo.png" width="48" height="48">
       
     </a>
     PHN CRM Help Centre
@@ -671,9 +671,45 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        User
+      </label>
+    
     <a href="./" title="User" class="md-nav__link md-nav__link--active">
       User
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adding-users-to-crm" class="md-nav__link">
+    Adding Users to CRM
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assigning-security-roles" class="md-nav__link">
+    Assigning Security Roles
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -808,6 +844,29 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#adding-users-to-crm" class="md-nav__link">
+    Adding Users to CRM
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assigning-security-roles" class="md-nav__link">
+    Assigning Security Roles
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -820,7 +879,32 @@
                 
                 
                 <h1 id="user">User<a class="headerlink" href="#user" title="Permanent link">&para;</a></h1>
-<p>This section has not been completed.</p>
+<p>Users in Microsoft Dynamics 365 are individuals who have specific logins and passwords and a set of attached privileges at various access levels.</p>
+<h2 id="adding-users-to-crm">Adding Users to CRM<a class="headerlink" href="#adding-users-to-crm" title="Permanent link">&para;</a></h2>
+<p>To add a User to CRM:</p>
+<ol>
+<li>
+<p>In your Azure Active Directory Admin Centre, select the User you wish to add to CRM.</p>
+</li>
+<li>
+<p>In 'Licenses &amp; Apps', assign a 'Microsoft Flow Free' license.</p>
+</li>
+<li>
+<p>Go to 'Groups'. Select the 'Dynamics' group. Add the User to the group. Click 'Save/Apply'.</p>
+</li>
+<li>
+<p>Within 1-10 minutes the =User will appear in CRM. The new User will have the most basic Security Role which they inherit from the default Team within CRM.</p>
+</li>
+<li>
+<p>Open the User in CRM. Expand the 'Administrator' tab in the User form. Click the 'Mailbox' to open it.</p>
+</li>
+<li>
+<p>Click 'Approve Email' and then 'Test &amp; Enable Mailbox'. Refresh the page until 3 successes.</p>
+</li>
+</ol>
+<p>Further: <a href="/app-for-outlook/#adding-the-app-to-outlook">How to install 'Dynamics 365 App for Outlook' addin.</a></p>
+<h2 id="assigning-security-roles">Assigning Security Roles<a class="headerlink" href="#assigning-security-roles" title="Permanent link">&para;</a></h2>
+<p><a href="/sec-roles/#assigning-security-roles">Guide on assigning Security Roles</a></p>
                 
                   
                 

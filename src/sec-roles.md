@@ -15,7 +15,21 @@ The example below shows the 'Team Member' security role. This means that any Use
 
 ## Assigning Security Roles
 
-[ SECTION INCOMPLETE ] 
+If you are a CRM Administrator, you can give Users additional Security Roles to allow them to manage records of different types. The User's position and responsibilities will determine what Roles they require.
+
+The Security Roles are set up to be very simple. Typically there is a Security Role for each entity (e.g. Controlled Documents, CPRA, Risk). Most Security Roles give 'Read, Create, Write, Append, Assign' permission for that entity. Remember, auditing is enabled for most entities so all changes are tracked.
+
+[See the list of Security Roles](/sec-roles)
+
+How to change a User's Security Roles:
+
+1. Go to the list of Users and select the User.
+
+1. In the command bar, click 'Manage Roles'.
+
+1. Check/Uncheck the Security Roles you want the User to have. Click 'Ok' to apply the changes.
+
+<img src="/gifs/assign_security_role.gif" />
 
 ## List of Security Roles
 

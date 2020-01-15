@@ -2,13 +2,13 @@
 
 ## Welcome
 
-This help centre will guide you on how to use your 'PHN CRM' web application built with Microsoft Dynamics 365 CRM.
+This Help Centre will guide you on how to use your 'PHN CRM' web application built with Microsoft Dynamics 365 CRM.
 
 ## What is PHN CRM
 
-The 'PHN in a Box' is a customized solution built using Microsoft Dynamics 365 CRM (Customer Relationship Management) which Murray PHN has configured to meet many of the PHNs' business needs. Other PHNs are now adopting this 'PHN in a box'.
+The 'PHN in a Box' is a customized software solution built using Microsoft Dynamics 365 CRM (Customer Relationship Management), designed to meet the business needs of Primary Health Networks within Australia.
 
-## Using the help centre
+## Using the Help Centre
 
 You can find a topic by:
 

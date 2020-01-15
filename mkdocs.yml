@@ -3,7 +3,7 @@ site_description: PHN CRM Help Centre
 
 theme:
     name: "material"
-    logo: "images/icon.png"
+    logo: "/images/logo.png"
 
 site_dir: docs/
 docs_dir: src/

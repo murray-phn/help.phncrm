@@ -1,3 +1,3 @@
-# CPRA <img src="../images/cpra.png" />
+# CPRA <img src="/images/entity_icons/cpra.png" />
 
 This section has not been completed.

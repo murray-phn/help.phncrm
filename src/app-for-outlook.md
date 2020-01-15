@@ -20,6 +20,22 @@ Emails, Appointments and Calls have a default field called ‘regarding’. This
 
 There is a medium level of staff training that will be required, as well as strategies to ensure staff are actively tracking activities. Tracking activities using the addin is very easy but staff have to understand the importance/need of this. The Department of Health may require interaction summaries between your PHN and your practices. If this is the case for your PHN, staff should be made aware that tracking is a requirement.
 
+## Adding the App to Outlook
+
+<img src="/gifs/test_and_enable_mailbox.gif" />
+
+1. Open the User in CRM
+
+2. Open the 'Administrator' tab in the User form. Click the 'Mailbox' to open it.
+
+3. Click 'Approve Email' and then 'Test & Enable Mailbox'. This will connect the User's mailbox to the CRM instance.
+
+4. The Outlook App should be automatically installed for the User in less than an hour.
+
+5. If you are an administrator you can view the status of App installations, and manually add the app, on the dashboard:
+
+[https://**YOUR-CRM**.crm6.dynamics.com/tools/appsforcrm/AppForOutlookAdminSettings.aspx](https://YOUR-CRM.crm6.dynamics.com/tools/appsforcrm/AppForOutlookAdminSettings.aspx)
+
 ## Tracking Emails
 
 Desktop

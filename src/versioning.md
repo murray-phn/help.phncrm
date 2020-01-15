@@ -4,9 +4,17 @@ Changes to the PHN CRM are shown below.
 
 ______
 
+0.2.1.07
+
+- 'Team Member' Security Role can now Assign any Account.
+
 0.2.1.06
 
-
+- Added 'Contact Role Types' Security Role to lock down edits of records
+- Removed write/delete permissions for 'Contact Role Types' from 'Team Member' security role
+- Added 'Modified On' and 'Modified By' to default view for 'Contact Role Types'
+- Added 'Activity Categories' Security Role to lock down edits of records
+- Removed write/delete permissions for 'Activity Categories' from 'Team Member' security role
 
 0.2.1.05
 
