@@ -16,6 +16,8 @@ You can find a topic by:
 
 - Search using the search box (top-right)
 
+Pages will contain images, GIFs (animated images), and some will contain videos.
+
 ## Support
 
 *If you require additional support, please contact us at [support@phnexchange.com.au](mailto:support@phnexchange.com.au)*

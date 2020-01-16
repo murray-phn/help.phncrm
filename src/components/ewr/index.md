@@ -47,7 +47,7 @@ The Counterparty Risk Assessment Tool has a notes and attachment section in the 
 
 The resulting risk score will determine specific actions that are required, refer to table below:
 
-<img src="/images/cpra_score_classification.png" />
+<img src="cpra_score_classification.png" />
 
 _Please note: Refer to the Counterparty Risk Assessment Policy for examples of risk mitigation strategies that can be put in place._
 
@@ -63,7 +63,7 @@ Your PHN CRM has a built-in dashboard that gives your team a high-level snapshot
 
 The EwR Dashboard can be accessed in the _Business_ Area.
 
-<img src="/gifs/ewr_location.gif" />
+<img src="location.gif" />
 
 ### Risk Matrix
 
@@ -77,23 +77,23 @@ Using the provided filters, you can:
 
 You may also print the Risk Matrix using the 'print' button, or you may manually 'snip' a screenshot of the Matrix to include in reports.
 
-<img src="/gifs/risk_matrix.gif" />
+<img src="risk_matrix.gif" />
 
 ### Summary Table
 
 The Summary Table provides a breakdown of your Risks by category and rating.
 
-<img src="/images/risk_summary_table.png" />
+<img src="risk_summary_table.png" />
 
 ### Word Cloud
 
 The Risk Word Cloud calculates the number of occurences of each word used to define Risks, and then displays the most common words in a 'cloud'. The larger the word is displayed, the more commonly it is used. This tool demonstrates which topics or themes are dominating Risk in your PHN.
 
-<img src="/images/risk_word_cloud.png" />
+<img src="risk_word_cloud.png" />
 
 ### Counter-Party Risk
 
 The Counter-Party Risk tab displays all CPRAs in descending score. Click 'Open' to view/edit that CPRA in a new window.
 
-<img src="/images/cpra_table.png" />
+<img src="cpra_table.png" />
 <p class="helpblock">(Names and order in screenshot are for example only)</p>

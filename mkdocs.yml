@@ -3,7 +3,7 @@ site_description: PHN CRM Help Centre
 
 theme:
     name: "material"
-    logo: "/images/logo.png"
+    logo: "/logo.png"
 
 site_dir: docs/
 docs_dir: src/
@@ -23,8 +23,8 @@ nav:
         - Controlled Documents Register: 'entities/controlled-document/index.md'
         - Legislation: 'entities/legislation/index.md'
         - Data Dictionary: 'entities/definition/index.md'
-        - Geography: 'entities/geo/index.md'
         - Instant Search: 'components/instant-search/index.md'
+        - Geography: 'entities/geo/index.md'
     - Entities:
         - Account: 'entities/account/index.md'
         - Activity Category: 'entities/activity-category/index.md'
@@ -51,10 +51,10 @@ nav:
         - Software Allocation: 'entities/software-allocation/index.md'
         - Task: 'entities/task/index.md'
         - User: 'entities/user/index.md'
-    - Security Roles: 'security-roles/index.md'
     - Settings: 
         - Auditing: 'settings/auditing.md'
         - Duplicate Detection: 'settings/duplicate-detection.md'
+        - Security & Permissions: 'settings/security-roles/index.md'
         - Timezones: 'settings/timezones.md'
     - Customization: 'customization.md'
     - Roadmap: 'roadmap.md'

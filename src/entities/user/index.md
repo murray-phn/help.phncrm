@@ -8,11 +8,11 @@ Users in Microsoft Dynamics 365 are individuals who have specific logins and pas
 
 To add a User to CRM:
 
-1. In your Azure Active Directory Admin Centre, select the User you wish to add to CRM.
+1. In your [Azure Active Directory Admin Centre](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users), select the User you wish to add to CRM.
 
 1. In 'Licenses & Apps', assign a 'Microsoft Flow Free' license.
 
-1. Go to 'Groups'. Select the 'Dynamics' group. Add the User to the group. Click 'Save/Apply'.
+1. Then go to ['Groups'](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Select the 'Dynamics' group. Add the User to the group. Click 'Save/Apply'.
 
 1. Within 1-10 minutes the =User will appear in CRM. The new User will have the most basic Security Role which they inherit from the default Team within CRM.
 
