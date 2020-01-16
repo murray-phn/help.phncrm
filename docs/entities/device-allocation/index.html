@@ -527,9 +527,59 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Device Allocation
+      </label>
+    
     <a href="./" title="Device Allocation" class="md-nav__link md-nav__link--active">
       Device Allocation
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fields" class="md-nav__link">
+    Fields
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#form" class="md-nav__link">
+    Form
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#views" class="md-nav__link">
+    Views
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -689,7 +739,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../sec-roles/" title="Security Roles" class="md-nav__link">
+    <a href="../../security-roles/" title="Security Roles" class="md-nav__link">
       Security Roles
     </a>
   </li>
@@ -808,6 +858,43 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    Overview
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fields" class="md-nav__link">
+    Fields
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#form" class="md-nav__link">
+    Form
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#views" class="md-nav__link">
+    Views
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -819,8 +906,49 @@
               
                 
                 
-                <h1 id="device-allocation">Device Allocation  <img src="/images/entity_icons/device-allocation.png" /><a class="headerlink" href="#device-allocation" title="Permanent link">&para;</a></h1>
-<p>This section has not been completed.</p>
+                <h1 id="device-allocation">Device Allocation  <img src="icon.png" /><a class="headerlink" href="#device-allocation" title="Permanent link">&para;</a></h1>
+<p><img src="location.gif" /></p>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<p>The 'Device Allocation' entity is part of the <a href="/asset-register">Asset Register</a> component. It represents an allocation of a <a href="/entities/device">Device</a>. This allows staff to manage their <a href="/entities/device">Devices</a>, search for unallocated <a href="/entities/device">Devices</a>, see who previously used a <a href="/entities/device">Device</a>, when a <a href="/entities/device">Device</a> was returned.</p>
+<h2 id="fields">Fields<a class="headerlink" href="#fields" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field Name</th>
+<th>Field Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Device</td>
+<td>The <a href="/entities/device">Device</a> record</td>
+</tr>
+<tr>
+<td>User</td>
+<td>The <a href="/entities/user">User</a> the Device is allocated to</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>Status (allocated, missing, etc.)</td>
+</tr>
+<tr>
+<td>Allocated Date</td>
+<td>The date the device was allocated</td>
+</tr>
+<tr>
+<td>Expected Return</td>
+<td>The date the device is expected to be returned</td>
+</tr>
+<tr>
+<td>Returned On</td>
+<td>The date the device was actually returned</td>
+</tr>
+</tbody>
+</table>
+<h2 id="form">Form<a class="headerlink" href="#form" title="Permanent link">&para;</a></h2>
+<p><img src="form.gif" /></p>
+<h2 id="views">Views<a class="headerlink" href="#views" title="Permanent link">&para;</a></h2>
+<p><img src="views.png" /></p>
                 
                   
                 
