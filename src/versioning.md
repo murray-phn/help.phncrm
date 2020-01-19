@@ -4,6 +4,12 @@ Changes to the PHN CRM are shown below.
 
 ______
 
+0.2.1.08
+
+- Team Member' Security Role can now delete Contact Roles not Owned by them.
+- Added 'My Open Activities' view
+- Removed 'Merge Records' Security Role - Team Member Role already contains this permission
+
 0.2.1.07
 
 - 'Team Member' Security Role can now Assign any Account.
