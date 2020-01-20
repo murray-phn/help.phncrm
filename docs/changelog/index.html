@@ -38,7 +38,7 @@
     
     
       
-        <title>Customization - PHN CRM Help Centre</title>
+        <title>Changelog - PHN CRM Help Centre</title>
       
     
     
@@ -79,7 +79,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#customization" tabindex="1" class="md-skip">
+      <a href="#changelog" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -105,7 +105,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Customization
+                Changelog
               
             </span>
           
@@ -760,63 +760,11 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Customization
-      </label>
-    
-    <a href="./" title="Customization" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../customization/" title="Customization" class="md-nav__link">
       Customization
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-field" class="md-nav__link">
-    Request a new field
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-dropdown-value" class="md-nav__link">
-    Request a new dropdown value
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-component" class="md-nav__link">
-    Request a new component
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
     
@@ -836,11 +784,20 @@
       
       
 
+  
 
-  <li class="md-nav__item">
-    <a href="../changelog/" title="Changelog" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Changelog" class="md-nav__link md-nav__link--active">
       Changelog
     </a>
+    
   </li>
 
     
@@ -861,36 +818,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">Table of contents</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-field" class="md-nav__link">
-    Request a new field
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-dropdown-value" class="md-nav__link">
-    Request a new dropdown value
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#request-a-new-component" class="md-nav__link">
-    Request a new component
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -902,14 +829,109 @@
               
                 
                 
-                <h1 id="customization">Customization<a class="headerlink" href="#customization" title="Permanent link">&para;</a></h1>
-<h2 id="request-a-new-field">Request a new field<a class="headerlink" href="#request-a-new-field" title="Permanent link">&para;</a></h2>
-<p>New fields can be added to your PHN's CRM solution. Some information is required. You may nee approval from your manager to add fields to your CRM.</p>
-<p><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9ppOf6jSn0WRprRdgpzViqhMjrCziUBMvNNtgcYZU1hUQ1RJRzFRQVYxVTVYWElPTjZTOEg2OUZZTy4u">CLICK HERE</a> to request a new field.</p>
-<h2 id="request-a-new-dropdown-value">Request a new dropdown value<a class="headerlink" href="#request-a-new-dropdown-value" title="Permanent link">&para;</a></h2>
-<p>If your PHN needs any options/values added to dropdown fields, please contact your PHN Exchange coordinator.</p>
-<h2 id="request-a-new-component">Request a new component<a class="headerlink" href="#request-a-new-component" title="Permanent link">&para;</a></h2>
-<p>When a new field is not enough, an entire new entity/component may be required to allow your PHN to manage the data you need. If this is the case, new components should be discussed with your PHN Exchange coordinator.</p>
+                <h1 id="changelog">Changelog<a class="headerlink" href="#changelog" title="Permanent link">&para;</a></h1>
+<p>Changes to the PHN CRM are shown below.</p>
+<hr />
+<p>0.2.1.08</p>
+<ul>
+<li>Team Member' Security Role can now delete Contact Roles not Owned by them.</li>
+<li>Added 'My Open Activities' view</li>
+<li>Removed 'Merge Records' Security Role - Team Member Role already contains this permission</li>
+<li>Added custom help URLs for most entities (https://help.phncrm.com.au/)</li>
+</ul>
+<p>0.2.1.07</p>
+<ul>
+<li>'Team Member' Security Role can now Assign any Account.</li>
+</ul>
+<p>0.2.1.06</p>
+<ul>
+<li>Added 'Contact Role Types' Security Role to lock down edits of records</li>
+<li>Removed write/delete permissions for 'Contact Role Types' from 'Team Member' security role</li>
+<li>Added 'Modified On' and 'Modified By' to default view for 'Contact Role Types'</li>
+<li>Added 'Activity Categories' Security Role to lock down edits of records</li>
+<li>Removed write/delete permissions for 'Activity Categories' from 'Team Member' security role</li>
+</ul>
+<p>0.2.1.05</p>
+<ul>
+<li>Added 'Marketing List' to site map (temp request by PHN)</li>
+<li>Modified default view for 'Reports' to exclude the system-default reports created by Microsoft</li>
+<li>Added some permissions to the Team Member security role</li>
+<li>Made 'Accounts I own' the default view</li>
+<li>Removed user-level 'delete' permission for Accounts from 'Team Member' role</li>
+<li>'Team Member' role can now delete Contacts</li>
+<li>Added permission for users to 'pin' views to default (per-user)</li>
+<li>Configured entities in the 'quick create' list</li>
+</ul>
+<p>0.2.1.04</p>
+<ul>
+<li>Added some charts and dashboards for Activities entity</li>
+<li>Configured Quick Find view for 'Contact Role Type' entity</li>
+<li>Configured Quick Create Form for 'Contact Role' entity</li>
+<li>Fixed sorting for Activity views</li>
+<li>Changed default charts for Accounts</li>
+<li>Gave the 'Administration' Security Role permission to change user settings</li>
+<li>Updated the 'Task' Form and Views</li>
+</ul>
+<p>0.2.1.03</p>
+<ul>
+<li>Configured the 'Activity Report' Report</li>
+</ul>
+<p>0.2.1.02</p>
+<ul>
+<li>Changed the way 'Compose Email' button creates emails</li>
+<li>Removed Events from Site Map</li>
+<li>Some renaming of tabs on Forms</li>
+</ul>
+<p>0.2.1.01</p>
+<ul>
+<li>Added 'Tasks' entity to D365 App for Outlook. Also added 'Tasks' to the Business Area, and moved the 'Activities' link</li>
+<li>Added 'Date Created' to 'Activity' entity view (All Activities)</li>
+<li>Configured Quick Find views for all geographical entities</li>
+</ul>
+<p>0.2.1.00</p>
+<ul>
+<li>Added 'CPRA' module (Counter-Party Risk Assessments)</li>
+<li>The 'Instant Search' page now returns CPRA records</li>
+<li>Added field 'Record URL' to Account, including 'OnCreate' process which sets the URL</li>
+</ul>
+<p>0.2.0.23</p>
+<ul>
+<li>Fixed Security Roles for 'Activity Category' entity</li>
+</ul>
+<p>0.2.0.21</p>
+<ul>
+<li>Added 'Additional Phone' field to Contact entity</li>
+<li>Added 'Activity Category' entity for tracking activities against (Set Regarding)</li>
+<li>Configured the site map for the 'App for Outlook' model-driven app</li>
+<li>Configured Forms for Phone Call, Appointment and Email entities. Includes custom code</li>
+<li>Removed duplicate field 'Patient Information Systems'</li>
+<li>Removed duplicate field 'IT Provider'</li>
+</ul>
+<p>0.2.0.20</p>
+<ul>
+<li>Made required changes to the Contact Views, and Contact Role entity</li>
+</ul>
+<p>0.2.0.19</p>
+<ul>
+<li>Fix for 'Inactive Risks' view</li>
+</ul>
+<p>0.2.0.18</p>
+<ul>
+<li>Added EwR Dashboard</li>
+</ul>
+<p>0.2.0.17</p>
+<ul>
+<li>Built the Fields, Forms, Views and JavaScript for the entities 'Contact Role' and 'Contact Role Type'</li>
+</ul>
+<p>0.2.0.12</p>
+<ul>
+<li>First implementation of EWRR (Enterprise-Wide Risk Register)</li>
+</ul>
+<p>0.2.0.11</p>
+<ul>
+<li>Renamed 'Policy' entity to 'Controlled Document', including associated Fields, Forms and Views</li>
+<li>Begun change log</li>
+</ul>
                 
                   
                 
@@ -931,7 +953,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../settings/timezones/" title="Timezones" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../roadmap/" title="Roadmap" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -940,25 +962,11 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Timezones
-              </span>
-            </div>
-          </a>
-        
-        
-          <a href="../roadmap/" title="Roadmap" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
-              <span class="md-flex__ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
                 Roadmap
               </span>
             </div>
-            <div class="md-flex__cell md-flex__cell--shrink">
-              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
-            </div>
           </a>
+        
         
       </nav>
     </div>

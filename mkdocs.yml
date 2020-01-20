@@ -43,6 +43,7 @@ nav:
         - EULA: 'entities/eula/index.md'
         - Geographical (e.g. LGA): 'entities/geo/index.md'
         - Legislation: 'entities/legislation/index.md'
+        - Legislative Body: 'entities/legislative-body/index.md'
         - Marketing List: 'entities/marketing-list/index.md'
         - Risk: 'entities/risk/index.md'
         - Risk Action: 'entities/risk-action/index.md'
@@ -58,7 +59,7 @@ nav:
         - Timezones: 'settings/timezones.md'
     - Customization: 'customization.md'
     - Roadmap: 'roadmap.md'
-    - Versioning: 'versioning.md'
+    - Changelog: 'changelog.md'
 
 markdown_extensions:
     - toc:

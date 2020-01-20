@@ -1,4 +1,4 @@
-# Versioning
+# Changelog
 
 Changes to the PHN CRM are shown below.
 
@@ -9,6 +9,7 @@ ______
 - Team Member' Security Role can now delete Contact Roles not Owned by them.
 - Added 'My Open Activities' view
 - Removed 'Merge Records' Security Role - Team Member Role already contains this permission
+- Added custom help URLs for most entities (https://help.phncrm.com.au/)
 
 0.2.1.07
 
