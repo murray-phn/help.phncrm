@@ -1,6 +1,8 @@
 # Training
 
-*\* Please Note: Some resources provided below are based on a stock-standard Dynamics 365 CRM instance. Some, but not all information will be applicable to your customized CRM solution.*
+To learn more about a specific CRM entity (e.g. Account, Risk, LGA) visit its corresponding section in the 'Entities' section of this Help Centre.
+
+Listed below are links to 3rd-party training resources. These were not authored by the PHN Exchange team. Some training resources provided below are based on a stock-standard Dynamics 365 CRM instance, meaning some, but not all information will be applicable to your customized CRM solution.
 
 ## Basic
 

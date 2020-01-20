@@ -25,3 +25,7 @@ Further: [How to install 'Dynamics 365 App for Outlook' addin.](/app-for-outlook
 ## Assigning Security Roles
 
 [Guide on assigning Security Roles](/sec-roles/#assigning-security-roles)
+
+## Other
+
+- It is not possible to add a 'Social Pane' (Activity Wall) to the 'User' form.

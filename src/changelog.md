@@ -10,6 +10,9 @@ ______
 - Added 'My Open Activities' view
 - Removed 'Merge Records' Security Role - Team Member Role already contains this permission
 - Added custom help URLs for most entities (https://help.phncrm.com.au/)
+- Enabled auditing for the following entities: Activity Category, Agreement, Appointment, Contact, Contact Role, EULA, Note, Phone Call, Task, User
+- Removed 'EFT' field from Contact Role views and forms. Can be made visible per PHN
+- Added new view to 'User' entity that displays Mailboxes not configured for syncing
 
 0.2.1.07
 
