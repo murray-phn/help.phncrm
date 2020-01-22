@@ -38,6 +38,12 @@ There are extra fields available if the Account has 'General Practice' in its Ac
 
 ## Form
 
+### CPRA Warning
+
+If the Account has a [CPRA](/entities/cpra) with a score of 10 or higher, a warning will display at the top of the Form to alert staff.
+
+<img src="cpra-warning.png" />
+
 ### Contact Roles
 
 In the 'Summary' tab is a grid which displays Contacts who have a Role at this Account. Each record in the grid is known as a 'Contact Role'.
