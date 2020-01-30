@@ -26,6 +26,16 @@ Further: [How to install 'Dynamics 365 App for Outlook' addin.](/app-for-outlook
 
 [Guide on assigning Security Roles](/sec-roles/#assigning-security-roles)
 
+## Updating your Mobile Phone number
+
+1. Go to [www.office.com](https://www.office.com/)
+1. Click your User 'bubble' (top-right)
+<img src="update-mobile-1.png" />
+
+1. Click 'My Office Profile'
+1. Click 'Update profile'
+1. Edit your mobile number
+
 ## Other
 
 - It is not possible to add a 'Social Pane' (Activity Wall) to the 'User' form.

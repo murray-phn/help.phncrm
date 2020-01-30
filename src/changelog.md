@@ -4,11 +4,12 @@ Changes to the PHN CRM are shown below.
 
 ______
 
-0.2.1.09 | 22nd Jan 2020
+0.2.1.09 | 28th Jan 2020
 
 - Added fields to Contact: POA, LGA, STE
 - Added Google Map to Contact Form that finds Google place and sets lat/lng fields
 - Added Real-Time Process for Contact that sets the values for POA, LGA and STE when SSC changes
+- Fixed script error when Contact Role was saved
 
 0.2.1.08
 
