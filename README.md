@@ -1,6 +1,6 @@
 # phn-crm-docs
 
-https://phn-crm.readthedocs.io/en/latest/ 
+http://help.phncrm.com.au/
  
 This help centre is designed for PHN staff who have already bought the PHN CRM SAAS. It is not intended as a 'sales pitch'.
 
